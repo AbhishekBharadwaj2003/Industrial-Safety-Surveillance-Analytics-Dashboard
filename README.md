@@ -42,7 +42,7 @@ This project simulates and analyzes industrial safety surveillance events using 
 
 ```bash
 pip install -r requirements.txt
-streamlit run dashboard.py
+python -m streamlit run dashboard.py
 ```
 
 ## Future Enhancements
